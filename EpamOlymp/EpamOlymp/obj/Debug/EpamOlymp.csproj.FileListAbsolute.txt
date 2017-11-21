@@ -1,0 +1,17 @@
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\bin\Debug\EpamOlymp.exe.config
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\bin\Debug\EpamOlymp.exe
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\bin\Debug\EpamOlymp.pdb
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.csprojResolveAssemblyReference.cache
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Properties.Resources.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.csproj.GenerateResource.Cache
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.exe
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.pdb
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.AddStudent.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Form1.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.StudentInfo.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.AddTutor.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.TutorInfo.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.AddOlympiad.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.OlympiadInfo.resources
+c:\users\bavad\documents\visual studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.Forms.AddParticipation.resources
+C:\Users\bavad\Documents\Visual Studio 2015\Projects\EpamOlymp\EpamOlymp\obj\Debug\EpamOlymp.csproj.ResolveComReference.cache
